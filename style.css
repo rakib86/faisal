@@ -213,6 +213,7 @@ header .hamburger {
     transition: all 0.3s ease;
     margin-bottom: 20px;
     text-align: center;
+    overflow: hidden;
 }
 
 
@@ -288,6 +289,8 @@ header .hamburger {
     transition: all 0.3s ease;
     margin-bottom: 20px;
     text-align: center;
+    overflow: hidden;
+    
 }
 
 .services .seo-box i {
