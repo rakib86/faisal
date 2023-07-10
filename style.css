@@ -189,6 +189,7 @@ header .hamburger {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
 
 .experience-info {
@@ -278,7 +279,7 @@ header .hamburger {
 }
 
 .services .seo-box {
-    width: 40%;
+    width: 50%;
     height: 40vh;
     padding: 20px;
     display: flex;
