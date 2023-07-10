@@ -128,6 +128,7 @@ header .hamburger {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    
 }
 
 .personal-info p {
@@ -137,7 +138,7 @@ header .hamburger {
 }
 
 .personal-info h1 {
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 600;
     margin-bottom: 20px;
 }
@@ -290,7 +291,7 @@ header .hamburger {
     margin-bottom: 20px;
     text-align: center;
     overflow: hidden;
-    
+
 }
 
 .services .seo-box i {
