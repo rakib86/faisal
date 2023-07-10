@@ -530,6 +530,7 @@ footer p {
       flex-direction: column;
       margin: 5% 5%;
       align-items: center;
+      text-align: center;
     }
   
     .experience .personal-image2 img {
